@@ -1,13 +1,12 @@
-# raojun
-demo
 # How to Use
 
 - quick start
 
 ``` bash
-
-cd yourdir
+git clone https://github.com/wangdahoo/vonic-webpack-starter.git
+cd vonic-webpack-starter
 npm install -g yarn
+yarn
 ```
 
 - development
