@@ -8,7 +8,7 @@ demo
 
 cd yourdir
 npm install -g yarn
-、、、
+```
 
 - development
 
