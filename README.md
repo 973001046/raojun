@@ -6,10 +6,8 @@ demo
 
 ``` bash
 
-cd vonic-webpack-starter
+cd yourdir
 npm install -g yarn
-yarn
-```
 
 - development
 
